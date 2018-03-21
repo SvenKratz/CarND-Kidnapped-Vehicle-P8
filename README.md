@@ -9,7 +9,7 @@ The repository contains the following notable files:
 * [WRITEUP.md](WRITEUP.md) Project writeup report with additional details on my implementation.
 * `src/particle_filter.cpp` : Implementation of particle filter for the project
 * `src/transform.hpp` : utility header/implementation containing conversion methods for transforming between vehicle and map coordinates as well as distance measure calculation
-* [UKF_Dataset1_RMSE_final.png](UKF_Dataset1_RMSE_final.png) image showing final RMSE values of the UKF after running through dataset 1
+* [sim-after-running.png](sim-after-running.png) image showing final output of simulator after running the filter
 
 ## Compilation and Run Instructions
 
